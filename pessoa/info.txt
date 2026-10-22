@@ -1,0 +1,8 @@
+Idade: 16
+Cor de pele: Branco
+Cabelo: Loiro escuro e Liso
+Cor dos olhos: Verde-escuro
+Altura: 1,73
+Peso: 82
+
+

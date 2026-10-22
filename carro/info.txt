@@ -1,0 +1,10 @@
+Marca	Chevrolet
+Modelo	Chevette Tubarão
+Ano	1977
+Cor	Azul
+Portas	2
+Motor	AP . 1.8
+Tipo de combustível	Gasolina
+Quilômetros	70.000 km
+Transmissão	Manual
+Versão	Chevette SL
