@@ -13,3 +13,11 @@ Vencedor: Ganha a partida quem vencer 13 rodadas primeiro.
 Economia: Antes de cada rodada, os jogadores usam créditos para comprar armas, escudos e habilidades especiais
 
 Lore: O conflito central do qual a organização faz parte se reflete na essência da jogabilidade de VALORANT (uma equipe busca detonar uma Spike e roubar a radianita ao redor , enquanto a outra defende seu território), mas as partidas e os combates rodada a rodada não são canônicos e não afetam a história do jogo. Nem todos os aspectos da jogabilidade precisam ser justificados e canonizados na história, e a jogabilidade não precisa se adequar a como as coisas funcionariam "realisticamente" (no contexto do universo de VALORANT ) dentro da história canônica, nem precisa refletir com precisão momentos em que os agentes não estão "ativos" no Protocolo. Da mesma forma, nem tudo relacionado aos itens cosméticos do jogo faz necessariamente parte da história, já que muitas coleções usam personagens originais em suas artes como parte do tema e da narrativa da própria coleção; historicamente, esses personagens nunca tiveram qualquer relevância para a história canônica.
+
+Nova personagem lançada: Hush
+
+• Passiva (Onipresença): Usa telecinese para puxar armas, a Spike ou itens do mapa à distância, além de acionar portas e mecanismos com temporizador.
+• Correnteza (Dash): Permite selecionar um local e impulsionar-se rapidamente até lá.
+• Granada de Luz / Flashbang: Possui duas formas de uso, incluindo arremesso direto ou detonação imediata.
+• Colapso de Formação: Um puxão gravitacional com atordoamento que é renovado a cada duas eliminações.
+• Parada Total (Ultimate): Custa 8 orbes e cria uma área de levitação no ar para controlar e deixar os adversários vulneráveis.
